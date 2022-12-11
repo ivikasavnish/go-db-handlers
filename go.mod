@@ -1,4 +1,4 @@
-module database_integrations
+module github.com/ivikasavnish/go-db-handlers
 
 go 1.18
 
